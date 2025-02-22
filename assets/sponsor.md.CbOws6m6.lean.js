@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,ag as o}from"./chunks/framework.BmLMQRXF.js";const k=JSON.parse('{"title":"赞助","description":"","frontmatter":{},"headers":[],"relativePath":"sponsor.md","filePath":"sponsor.md"}'),n={name:"sponsor.md"};function s(p,a,i,l,h,u){return t(),r("div",null,a[0]||(a[0]=[o("",9)]))}const d=e(n,[["render",s]]);export{k as __pageData,d as default};
